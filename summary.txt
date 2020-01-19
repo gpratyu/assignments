@@ -1,0 +1,128 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         7 characters
+	Most common values:    M001184 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         18 characters
+	Most common values:    HON. THOMAS MASSIE (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (1x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    PERSONNEL COMPENSATION (1x)
+
+  6. "DATE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (1x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (1x)
+
+  8. "RECORDID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         19 characters
+	Most common values:    KUPER CHRISTOPHER N (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2017-01-01
+	Largest value:         2017-01-01
+	Most common values:    2017-01-01 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2017-01-02
+	Largest value:         2017-01-02
+	Most common values:    2017-01-02 (1x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         24 characters
+	Most common values:    2ND AMENDMENT SPECIALIST (1x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        133.33
+	Largest value:         133.33
+	Sum:                   133.33
+	Mean:                  133.33
+	Median:                133.33
+	Most common values:    133.33 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        2,017
+	Largest value:         2,017
+	Sum:                   2,017
+	Mean:                  2,017
+	Median:                2,017
+	Most common values:    2,017 (1x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         19 characters
+	Most common values:    KUPER CHRISTOPHER N (1x)
+
+Row count: 1
