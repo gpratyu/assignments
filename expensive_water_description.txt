@@ -1,0 +1,1 @@
+The code in filter.py takes an argument STDIN, reads a csv file and filters those rows of data from the house disbursement dataset where the amount spent is greater than 1000. The filtered data is stored in a new csv file, expensive_water.csv.

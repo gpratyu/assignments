@@ -1,0 +1,1 @@
+The program filter_modify takes an argument STDIN, reads data from the csv file and filters only those rows where the purpose is 2nd Amendment Specialist and the amount is less than 1000. 
